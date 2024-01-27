@@ -1,0 +1,12 @@
+.home-container h2 {
+  color: var(--ga-color-font-secondary);
+  font-size: 48px;
+  margin-top: 27px;
+}
+
+.home-container p {
+  color: var(--ga-color-font-tertiary);
+  font-size: 24px;
+  font-weight: 700;
+  margin-bottom: 27px;
+}

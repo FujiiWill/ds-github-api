@@ -1,0 +1,53 @@
+.profilecard-container {
+  background-color: var(--ga-color-bg-quaternary);
+  border-radius: 8px;
+  display: flex;
+  padding: 45px 35px;
+}
+
+.profile-picture-container img {
+  width: 247;
+  height: 247px;
+}
+
+.profilecard-info {
+  background-color: var(--ga-color-bg-secondary);
+  border-radius: 6px;
+  border: 1px solid var(--ga-color-border);
+  padding: 8px 15px 15px 15px;
+  margin-left: 30px;
+  height: 247px;
+  width: 100%;
+  max-width: 900px;
+}
+
+.profilecard-info-title {
+  color: var(--ga-color-font-result-primary);
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.profilecard-info-resultbox {
+  height: 40px;
+  width: 100%;
+  max-width: 872px;
+  border-radius: 4px;
+  border: 1px solid var(--ga-color-border);
+  padding: 8px 10px;
+}
+
+.profilecard-info-resultbox p {
+  color: var(--ga-color-font-result-secondary);
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.result-blue {
+  color: var(--ga-color-font-result-tertiary);
+  font-size: 16px;
+}
+
+.result-regular {
+  color: var(--ga-color-font-result-secondary);
+  font-size: 16px;
+}

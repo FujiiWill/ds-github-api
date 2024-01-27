@@ -1,0 +1,10 @@
+button {
+  background-color: var(--ga-color-bg-primary);
+  color: var(--ga-color-font-primary);
+  height: 40px;
+  border-radius: 4px;
+  padding: 8px 18px;
+  font-size: 18px;
+  border: none;
+  cursor: pointer;
+}
